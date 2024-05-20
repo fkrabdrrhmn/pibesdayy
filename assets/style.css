@@ -21,7 +21,7 @@ body {
 }
 
 body::before {
-    content: "oleh: bit.ly/FikriAbdrrhmn";
+    content: "Copyright &copy; 2024 FikriAbdrrhmn.";
     color: white;
     opacity: .8;
     font-size: 13px;
