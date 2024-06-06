@@ -21,7 +21,7 @@ body {
 }
 
 body::before {
-    content: "Copyright &copy; 2024 FikriAbdrrhmn.";
+    content: "FikriAbdrrhmn.";
     color: white;
     opacity: .8;
     font-size: 13px;
